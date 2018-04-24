@@ -3,6 +3,8 @@
 
 [관련링크 - 나눔스퀘어 글꼴에서는 안보이는 글자들 ](http://hanjoonkblog.blogspot.kr/2017/12/blog-post.html)
 
+![nanum square issue](issue.gif)
+
 ## Usage
 ```html
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/skt-t1-byungi/nanum-square-fallback/master/webfont/nanum-square.css">
