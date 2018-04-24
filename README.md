@@ -8,3 +8,6 @@
 ```html
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/skt-t1-byungi/nanum-square-fallback/master/webfont/nanum-square.css">
 ```
+
+## License
+나눔폰트 라이센스 정책에 의거해 비상업적 용도에 한해 수정 및 재배포 가능합니다. 
